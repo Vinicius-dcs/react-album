@@ -1,4 +1,4 @@
-# IMC Calculator
+# Photos Album
 
 Project using React and Typescript to create a photos album.
 
