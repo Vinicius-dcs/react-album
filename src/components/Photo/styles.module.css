@@ -1,0 +1,10 @@
+.img {
+    border: 3px solid;
+    padding: 15px;
+    margin: 10px;
+}
+
+.img:hover {
+    background-color: beige;
+    cursor: pointer;
+}

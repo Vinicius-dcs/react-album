@@ -1,0 +1,16 @@
+p {
+    font-size: 18px;
+    border: solid;
+    padding: 20px;
+    
+}
+
+p:hover {
+    background-color: beige;
+    cursor: pointer; 
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
